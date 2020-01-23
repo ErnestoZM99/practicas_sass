@@ -26,11 +26,11 @@ img {
   display: block;
   border: 2px solid #FFF;
   opacity: 0.3;
+  transition: 5s;
 }
 
 img:hover {
   opacity: 1;
-  transition: 0.5s;
 }
 
 /*# sourceMappingURL=style.css.map */
