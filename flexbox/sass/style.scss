@@ -1,0 +1,31 @@
+.flex-container{
+    background-color: dodgerblue;
+    display: flex;
+    height: 80vh;
+    flex-wrap: wrap;
+  //flex-flow:column wrap ;
+  //justify-content: center;
+  //justify-content: space-around;
+  justify-content: space-between;
+
+  align-items: flex-end;
+}
+
+
+
+
+
+.flex-container{
+    display: plex;
+}
+.flex-container >div{
+
+background-color: gray;
+width: 17%;
+height:17vh ;
+margin: 10px 5px;
+font-size: 30px;
+text-align: center;
+line-height: 100px;
+
+}
